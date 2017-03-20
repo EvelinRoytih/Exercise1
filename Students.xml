@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding= UTF-8"?>
+
+<class>
+<class_id >B1 </class_id>
+    <student>
+    <id type = "integer" >1234</id>
+    <name> Donna</name>
+    <surname> Brosban</surname>
+        <Classes>
+        <Geography>98</Geography>
+        <Math>73</Math>
+        <Science>86</Science>
+        <English>100</English>
+        <Gym> 62</Gym>
+        </Classes>
+        
+    </student>
+</class>

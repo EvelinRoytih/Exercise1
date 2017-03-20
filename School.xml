@@ -1,0 +1,18 @@
+<School>
+    <id type= "integer"> 4254555</id>
+    <Name>Ort Singalovski</Name>
+    <School_type> Science and Programming</School_type>
+    <Address>
+    <Street> Zvi Nishri 40</Street>
+    <City> Tel Aviv</City>
+    <postal_code> 54474</postal_code>
+    </Address>
+    <Majors>
+        - Electronics
+        - Dentist assistant
+        - Programing
+        - Engineering
+        
+    
+    </Majors>
+</School>

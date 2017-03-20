@@ -1,0 +1,21 @@
+{
+"Class" : "B1"
+[
+"Id": 12448479,
+"Name": "John",
+"Surname": "Smith",
+"Classes":{
+"geography": 98,
+"Math": 75,
+"science": 84,
+"Gym" : 63,
+"english": 93
+
+}
+]
+
+
+
+
+
+}
